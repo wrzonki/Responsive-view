@@ -1,2 +1,1 @@
-# Responsive-view
- Widok zautomatyzowanej responsywności
+"# appName" 
